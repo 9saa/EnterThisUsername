@@ -2,6 +2,12 @@
 
 # Minecraft
 - i play mc, i use LiquidBounce aka the best client! (https://liquidbounce.net/)
+
+# abt me
+- currently working on a few projects, minecraft mod, minesweeper game
+- currently learning java
+- pronouns are he/him/his
+- reach me via guns.lol/8gn
 <!--
 **EnterThisUsername/EnterThisUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
