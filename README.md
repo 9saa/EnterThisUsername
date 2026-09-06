@@ -1,4 +1,4 @@
-![:EnterThisUsername](https://count.getloli.com/@:EnterThisUsername)
+![:Rule34](https://count.getloli.com/@:Rule34)
 
 <!--
 **EnterThisUsername/EnterThisUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
