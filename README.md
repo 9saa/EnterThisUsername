@@ -7,7 +7,7 @@
 - currently working on a few projects, minecraft mod, minesweeper game
 - currently learning java
 - pronouns are he/him/his
-- reach me via guns.lol/8gn
+- reach me via https://guns.lol/8gn
 <!--
 **EnterThisUsername/EnterThisUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
