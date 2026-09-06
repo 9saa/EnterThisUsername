@@ -1,5 +1,7 @@
 ![:EnterThisUsername](https://count.getloli.com/@:EnterThisUsername)
 
+# Minecraft
+- i play mc, i use LiquidBounce aka the best client! (https://liquidbounce.net/)
 <!--
 **EnterThisUsername/EnterThisUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
