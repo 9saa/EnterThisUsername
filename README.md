@@ -1,4 +1,4 @@
-![:EnterThisUsername]([https://count.getloli.com/@EnterThisUsername?name=EnterThisUsername&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0])
+![:EnterThisUsername](https://count.getloli.com/@EnterThisUsername?name=EnterThisUsername&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
 # Minecraft
 - i play mc, i use LiquidBounce aka the best client! (https://liquidbounce.net/)
