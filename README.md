@@ -1,24 +1,7 @@
 ![:EnterThisUsername](https://count.getloli.com/@EnterThisUsername?name=EnterThisUsername&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
-# Minecraft
-- i play mc, i use LiquidBounce aka the best client! (https://liquidbounce.net/)
-
-# abt me
-- currently working on a few projects, minecraft mod, minesweeper game
-- currently learning java
-- pronouns are he/him/his
-- reach me via https://guns.lol/8gn
-<!--
-**EnterThisUsername/EnterThisUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi!
+I'm known as Lism.
+I am a freelance software and web developer, I enjoy to learn new coding languages.
+I currently know:
+Java, JavaScript, C++, C, TypeScript, Rust, Ruby, Python, C#, Go, Kotlin, SQL, PHP, and Scala.
